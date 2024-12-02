@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Marcello
+- 👋 Hi, I’m Marcello, analyst and developer on an Italian multinational corporation
 - 👀 I’m interested in Oracle and all its environment
-- 🌱 I’m currently learning C# and a bit of SW Architecture
+- 🌱 I’m currently learning C# and X++ for Microsoft F&O environment
 - 💞️ I’m looking to collaborate on PL/SQL open source projects
 - 📫 How to reach me ... well, here of course
 
